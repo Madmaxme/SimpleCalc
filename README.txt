@@ -1,0 +1,1 @@
+Simple Calculation Program that takes in two doubles and calculates a result
